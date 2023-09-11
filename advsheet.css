@@ -1,0 +1,84 @@
+#Links{
+    position:absolute;
+    top:20px;
+    right: 20px;
+    text-align: right;
+}
+#glogo{
+    margin-top: 20px;
+    margin-left: 12px;
+}
+#txt{
+    margin-left: 40px;
+    margin-top: 42.5px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #d93025;
+}
+#line{
+    width: 1536px;
+    background: #ebebeb;
+}
+#textbox{
+    margin-left: 100px;
+    margin-top: 25px;
+    height: 28.6px;
+    width: 570px;
+    padding: 1px;
+}
+#textbox1{
+    margin-left: 27px;
+    margin-top: 25px;
+    height: 28.6px;
+    width: 570px;
+    padding: 1px;
+}
+#textbox2{
+    margin-left: 72px;
+    margin-top: 25px;
+    height: 28.6px;
+    width: 570px;
+    padding: 1px;
+}
+#textbox3{
+    margin-left: 63px;
+    margin-top: 25px;
+    height: 28.6px;
+    width: 570px;
+    padding: 1px;
+}
+#form{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #242424;
+}
+#rect {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 65.2px;
+    width: 100vw;
+    background: #858585;
+    color:#242424;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: medium;
+    line-height: normal;
+  }
+#button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4d90fe;
+    color:aliceblue;
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    width: 120.8px;
+    height: 30px;
+    position: absolute;
+    left: 665px;
+    top: 280px;
+}
